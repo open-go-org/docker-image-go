@@ -1,4 +1,4 @@
-# docker image for building golang app
+# docker image for go
 
 A base Dockerfile for building golang app image.
 
