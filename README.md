@@ -1,6 +1,6 @@
-# docker image for building golang
+# docker image for building golang app
 
-A base Dockerfile for building golang image.
+A base Dockerfile for building golang app image.
 
 We will keep sync from goalng [offical docker image](https://github.com/docker-library/golang) and all deps software.
 
